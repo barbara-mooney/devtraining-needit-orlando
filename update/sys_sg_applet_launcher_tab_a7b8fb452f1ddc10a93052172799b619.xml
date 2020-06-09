@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="NeedIt">2495b38d2fd9dc10a93052172799b605</applet_launcher>
+        <applet_launcher/>
         <icon display_value="File - Green">da538b3eff061300f1f2883b73e11ca5</icon>
         <label>NeedIt</label>
         <roles/>
